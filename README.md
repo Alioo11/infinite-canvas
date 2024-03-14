@@ -1,2 +1,3 @@
-# infinite-canvas
-infinite canvas implemented with typescript :)
+# Infinite Canvas
+
+inifinite canvas implement with typescript :)
