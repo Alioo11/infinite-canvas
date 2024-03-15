@@ -13,4 +13,5 @@ class Viewport implements AbstractViewport {
     this.canvasElement.height = height;
     this.nav = new Nav(this.canvasElement, width, height);
   }
+  render() {}
 }

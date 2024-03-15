@@ -1,5 +1,2 @@
-const main = () => {
-  return 0;
-};
-
+const main = ()=>{}
 main();

@@ -10,6 +10,6 @@ class Nav implements AbstractNav {
   }
 
   private registerMouseEvents(canvasElement: HTMLCanvasElement) {
-    canvasElement.addEventListener("auxclick", (event) => {});
+    canvasElement.addEventListener("auxclick", (event) => {}); // TODO implement navigation :)
   }
 }
