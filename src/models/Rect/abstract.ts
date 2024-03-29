@@ -3,4 +3,7 @@ abstract class AbstractRect {
   abstract y: number;
   abstract width: number;
   abstract height: number;
+  abstract asString: string;
 }
+
+export default AbstractRect;

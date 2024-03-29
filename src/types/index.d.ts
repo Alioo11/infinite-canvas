@@ -1,2 +1,2 @@
-type renderableElementType = "SVG" | "grid";
-type SVGElementType = "circle" | "path";
+// renderable
+type SVGRenderableTypes = "circle" | "path" | "rect";
